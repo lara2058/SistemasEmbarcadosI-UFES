@@ -1,7 +1,7 @@
 # Sistemas Embarcados I - UFES
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lara2058/SistemasEmbarcadosI-UFES#readme)
-![pt-br 'Soon'](https://img.shields.io/badge/lang-pt--br-green.svg)
+[![pt-br 'Soon'](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/lara2058/SistemasEmbarcadosI-UFES#readme)
 
 ## Repository overview
 
@@ -13,11 +13,10 @@ This second material is subject to change, as the new course material is still i
 The main reason for this repository is to try and ease the practical lessons by providing code with comments and throughout explanation of the solutions developed, as well as trying to give a better understanding of the proposed problems and how they relate with theory, especially when it comes to the Intel x86 focused practical classes.
 
 The scripts for the practical classes were developed by:
-x86 based: Prof. Dr. Evandro Ottoni Teatini Salles and Prof. Dr. Jorge Aching Samatelo.
-ESP32 based: Prof. Dr. Camilo Arturo Rodriguez Diaz.
+- x86 based: Prof. Dr. Evandro Ottoni Teatini Salles and Prof. Dr. Jorge Aching Samatelo.
+- ESP32 based: Prof. Dr. Camilo Arturo Rodriguez Diaz.
 
 Some other material that can be found around github that relates to this course:
 
-![MrTuckie's 2021/1 class notes](https://github.com/MrTuckie/ALB_SEB_2020-1)
-
-![Paaatcha's 2013/2 Elevator project](https://github.com/paaatcha/elevador)
+- [MrTuckie's 2021/1 class notes](https://github.com/MrTuckie/ALB_SEB_2020-1)
+- [Paaatcha's 2013/2 Elevator project](https://github.com/paaatcha/elevador)
