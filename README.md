@@ -17,5 +17,7 @@ x86 based: Prof. Dr. Evandro Ottoni Teatini Salles and Prof. Dr. Jorge Aching Sa
 ESP32 based: Prof. Dr. Camilo Arturo Rodriguez Diaz.
 
 Some other material that can be found around github that relates to this course:
-[![MrTuckie's 2021/1 class notes]](https://github.com/MrTuckie/ALB_SEB_2020-1)
-[![Paaatcha's 2013/2 Elevator project]](https://github.com/paaatcha/elevador)
+
+![MrTuckie's 2021/1 class notes](https://github.com/MrTuckie/ALB_SEB_2020-1)
+
+![Paaatcha's 2013/2 Elevator project](https://github.com/paaatcha/elevador)
