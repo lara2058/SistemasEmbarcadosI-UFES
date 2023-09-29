@@ -1,7 +1,7 @@
 # Sistemas Embarcados I - UFES
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lara2058/SistemasEmbarcadosI-UFES#readme)
-[![pt-br 'Soon'](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/lara2058/SistemasEmbarcadosI-UFES#readme)
+[![pt-br Soon](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/lara2058/SistemasEmbarcadosI-UFES#readme)
 
 ## Repository overview
 

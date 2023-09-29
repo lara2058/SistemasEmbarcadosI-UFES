@@ -1,5 +1,5 @@
-# Lab01 - Debug with the DOSBox tool
+# Lab01 - Debug com o DOSBox
 
-An installer for the DOSBox is provided, but it can also be obtained at their [official website](https://www.dosbox.com/download.php?main=1)
+Um instalador é disponibilizado, mas também pode ser obtido no [site oficial da ferramenta](https://www.dosbox.com/download.php?main=1).
 
-More description will come soon, but if you can understand Portuguese, the "Slides_Lab01-Debug_[Jorge].pdf" file is quite easy to follow.
+Uma descrição mais detalhada será adicionada em breve, porém, usando o arquivo "Slides_Lab01-Debug_[Jorge].pdf" é bem fácil seguir o roteiro do laboratório.
